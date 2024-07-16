@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="10" Priority="0" Center="+37.955833+139.111667">
+    <Runway Name="10/28">
+      <Threshold Name="10" Position="+37.956838+139.095638" ExtendedCentrelineTrack="273" ExtendedCentrelineLength="20" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="28" Position="+37.955785+139.124054" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>SN000</Point>
+      <Point>SN001</Point>
+      <Point>SN002</Point>
+      <Point>MOKBA</Point>
+      <Point>TAMBO</Point>
+      <Point>VIKET</Point>
+      <Point>NAEBA</Point>
+      <Point>TERAD</Point>
+      <Point>OKESA</Point>
+      <Point>OPPOH</Point>
+      <Point>BACCO</Point>
+      <Point>KENSI</Point>
+      <Point>SUKOB</Point>
+      <Point>GOSEN</Point>
+      <Point>SWALO</Point>
+      <Point>MAGNA</Point>
+      <Point>RYUTO</Point>
+      <Point>INAHO</Point>
+      <Point>TOKKY</Point>
+      <Point>BUGOH</Point>
+      <Point>KODOH</Point>
+      <Point>EGAMO</Point>
+      <Point>ATNAP</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>GTC</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="10_LABEL" Priority="2" Center="+37.955833+139.111667">
+    <Label>
+      <Point>SN000</Point>
+      <Point>SN001</Point>
+      <Point>SN002</Point>
+      <Point>MOKBA</Point>
+      <Point>TAMBO</Point>
+      <Point>VIKET</Point>
+      <Point>NAEBA</Point>
+      <Point>TERAD</Point>
+      <Point>OKESA</Point>
+      <Point>OPPOH</Point>
+      <Point>BACCO</Point>
+      <Point>KENSI</Point>
+      <Point>SUKOB</Point>
+      <Point>GOSEN</Point>
+      <Point>SWALO</Point>
+      <Point>MAGNA</Point>
+      <Point>RYUTO</Point>
+      <Point>INAHO</Point>
+      <Point>TOKKY</Point>
+      <Point>BUGOH</Point>
+      <Point>KODOH</Point>
+      <Point>EGAMO</Point>
+      <Point>ATNAP</Point>
+      <Point>GTC</Point>
+    </Label>
+  </Map>
+</Maps>

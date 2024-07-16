@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJKA" Priority="0" Center="+28.430833+129.712500">
+    <Runway Name="03_21">
+      <Threshold Name="03" Position="+28.422538+129.708111" ExtendedCentrelineTrack="206" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="21" Position="+28.438768+129.717028" ExtendedCentrelineTrack="026" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>IKEJI</Point>
+      <Point>MUCHA</Point>
+      <Point>PINNE</Point>
+      <Point>RURIK</Point>
+      <Point>POMAS</Point>
+      <Point>KANAH</Point>
+      <Point>SUKOM</Point>
+      <Point>SAMAX</Point>
+      <Point>UPTEM</Point>
+      <Point>ANBOL</Point> 
+    </Symbol>
+    <Symbol Type="SolidTriangle">
+      <Point>UGAMI</Point>
+      <Point>YUWAN</Point>
+      <Point>IKYUN</Point>
+      <Point>TUMGI</Point>
+      <Point>KYORA</Point>
+      <Point>BOROS</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>AME</Point>
+    </Symbol>
+    <Symbol Type="HollowSquare">
+      <Point>AME</Point>
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJKA_LABEL" Priority="2" Center="+28.430833+129.712500">
+    <Label>
+      <Point>IKEJI</Point>
+      <Point>MUCHA</Point>
+      <Point>PINNE</Point>
+      <Point>RURIK</Point>
+      <Point>POMAS</Point>
+      <Point>YUWAN</Point>
+      <Point>KANAH</Point>
+      <Point>KYORA</Point>
+      <Point>TUMGI</Point>
+      <Point>SUKOM</Point>
+      <Point>SAMAX</Point>
+      <Point>UPTEM</Point>
+      <Point>ANBOL</Point>
+      <Point>UGAMI</Point>
+      <Point>YUWAN</Point>
+      <Point>IKYUN</Point>
+      <Point>TUMGI</Point>
+      <Point>KYORA</Point>
+      <Point>BOROS</Point>
+      <Point>AME</Point>
+    </Label>
+  </Map>
+</Maps>

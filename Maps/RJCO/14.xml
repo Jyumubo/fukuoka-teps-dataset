@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="14" Priority="0" Center="+430703.000+1412253.000">
+    <Runway Name="14/32">
+        <Threshold Name="14" Position="+43.122287+141.374610" ExtendedCentrelineTrack="315" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="2" />
+        <Threshold Name="32" Position="+43.112607+141.387963" />
+    </Runway>
+    <Symbol Type="HollowTriangle">
+      <Point>YAFFL</Point>
+      <Point>FUUTA</Point>
+      <Point>BANKE</Point>
+      <Point>MOIWA</Point>
+      <Point>KURIS</Point>
+      <Point>RUMOI</Point>
+      <Point>BEEBA</Point>
+      <Point>TOBET</Point>
+      <Point>SOBEE</Point>
+      <Point>OLSUT</Point>
+      <Point>NIKAN</Point>
+      <Point>AGOVO</Point>
+      <Point>CO451</Point>
+      <Point>KIROL</Point>
+      <Point>MAMAT</Point>
+      <Point>MORAI</Point>
+    </Symbol>
+    <Symbol Type="Hexagon">
+      <Point>SPE</Point>
+      <Point>CHE</Point>
+      <Point>ZYT</Point>
+    </Symbol>
+  </Map>
+</Maps>

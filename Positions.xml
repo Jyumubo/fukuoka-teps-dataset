@@ -1,0 +1,2039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Positions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Group Name="RJBG">
+    <Position Name="N54" Type="ASD" DefaultCenter="+27.704255+129.666160" DefaultRange="600" VisibilityRange="600">
+      <Sectors>
+        <Sector Name="N54" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+27.704255+129.666160</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N54 Sector</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="N55" Type="ASD" DefaultCenter="+27.704255+129.666160" DefaultRange="600" VisibilityRange="600">
+      <Sectors>
+        <Sector Name="N55" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+27.704255+129.666160</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Kobe Control</Line>
+        <Line>Covering N55 Sector</Line>
+      </ControllerInfo>
+    </Position>
+  </Group>
+  <Group Name="RJDG">
+  <Position Name="DG South" Type="ASD" DefaultCenter="+26.625000+128.152222" DefaultRange="802" VisibilityRange="600" MagneticVariation="+5" >
+      <Sectors>
+        <Sector Name="DG S" />
+        <Sector Name="F15" />
+        <Sector Name="F16" />
+        <Sector Name="F17" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+29.129275+125.972478</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F15 Sector</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="F15" Type="ASD" DefaultCenter="+29.129275+125.972478" DefaultRange="600" VisibilityRange="600">
+      <Sectors>
+        <Sector Name="F15" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+29.129275+125.972478</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F15 Sector</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="F16" Type="ASD" DefaultCenter="+27.704255+129.666160" DefaultRange="600" VisibilityRange="600">
+      <Sectors>
+        <Sector Name="F16" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+27.704255+129.666160</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F16 Sector</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="F17" Type="ASD" DefaultCenter="+24.201035+127.124709" DefaultRange="900" VisibilityRange="600">
+      <Sectors>
+        <Sector Name="F17" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+24.201035+127.124709</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="9000" />
+      <ControllerInfo>
+        <Line>Fukuoka Control</Line>
+        <Line>Covering F17 Sector</Line>
+      </ControllerInfo>
+    </Position>
+  </Group>
+  <Group Name="Approach">
+    <Position Name="Niigata Approach" Type="ASD" DefaultCenter="+37.955833+139.111667" DefaultRange="200" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="SN APP" />
+        <Sector Name="SN DEP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+37.955833+139.111667</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="RJSN/ACA" />
+        <Map Name="RJSN/MVA" />
+      </Maps>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="RJSN" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="16000">
+        <AdditionalLevels>17000</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="RJSN" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Nigata Approach</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Fukuoka Approach" Type="ASD" DefaultCenter="+334256.5823+1302608.1335" DefaultRange="124" VisibilityRange="150" MagneticVariation="+8">
+      <Sectors>
+        <Sector Name="JFF APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+334256.5823+1302608.1335</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="State" Sort="Time">
+        <Window Type="State" State="Jurisdiction" Visible="true" />
+        <Window Type="State" State="Announced" Visible="true" />
+        <Window Type="State" State="Preactive" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="17000">
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="RJFF" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Fukuoka Approach</Line>
+        <Line>Covering RJFF, RJFS, RJDB, RJFA, RJDM</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Kagoshima Approach" Type="ASD" DefaultCenter="+31.803333+130.719445" DefaultRange="201" VisibilityRange="150" MagneticVariation="+7">
+      <Sectors>
+        <Sector Name="JFK APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+24.816669+125.782505</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="RJFK" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="24000">
+        <AdditionalLevels>3500</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="RJFK" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Kagoshima Approach</Line>
+        <Line>Covering RJFK, RJFM, RJFN</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Naha Approach" Type="ASD" DefaultCenter="+26.193333+127.639722" DefaultRange="201" VisibilityRange="150" MagneticVariation="+5">
+      <Sectors>
+        <Sector Name="OAH APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+24.816669+125.782505</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="ROAH/ACA" />
+        <Map Name="ROAH/MVA_ROAH" />
+        <Map Name="ROAH/MVA_RJKA" />
+      </Maps>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="ROAH" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="1200">
+        <AdditionalLevels>5000</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="ROAH" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Naha Approach</Line>
+        <Line>Covering ROAH, RODN, ROTM, ROKJ, RORY, ROKA, RJKB, RJKI, RJKN</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Sakishima Approach" Type="ASD" DefaultCenter="+24.816669+125.782505" DefaultRange="201" VisibilityRange="150" MagneticVariation="+4">
+      <Sectors>
+        <Sector Name="ORS APP" />
+      </Sectors>
+      <ManualVisibility>
+        <Point>+24.816669+125.782505</Point>
+      </ManualVisibility>
+      <Maps>
+        <Map Name="GEO" />
+        <Map Name="RORS/ACA" />
+        <Map Name="RORS/MVA" />
+      </Maps>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="ROIG" Visible="true" />
+        <Window Type="ADEP" Beacon="ROMY" Visible="true" />
+      </Strips>
+      <CFL QuickLevel="15000">
+        <AdditionalLevels>1000</AdditionalLevels>
+      </CFL>
+      <ArrivalLists>
+        <Airport Name="ROIG" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Sakishima Approach</Line>
+        <Line>Covering ROIG, RORS, ROMY, RORT</Line>
+      </ControllerInfo>
+    </Position>
+  </Group>
+  <Group Name="Radar Tower">
+    <Position Name="Kansai Tower" Type="ASD" DefaultCenter="+34.434167+135.232778" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="BB LCL" />
+        <Sector Name="BB LCL W" />
+        <Sector Name="BB GND" />
+        <Sector Name="BB GND W" />
+        <Sector Name="BB CD" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJBB" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="9000" />
+        <ArrivalLists>
+          <Airport Name="RJBB" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Kansai Tower</Line>
+        </ControllerInfo>
+        <ControllerInfo Callsign="RJBB_GND">
+          <Line>Kansai Ground</Line>
+        </ControllerInfo>
+        <ControllerInfo Callsign="RJBB_W_GND">
+          <Line>Kansai Ground</Line>
+        </ControllerInfo>
+        <ControllerInfo Callsign="RJBB_DEL">
+          <Line>Kansai Delivery</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Nigata Tower" Type="ASD" DefaultCenter="+37.955833+139.111667" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+          <Sector Name="SN LCL" />
+        </Sectors>
+        <ManualVisibility>
+          <Point>+37.955833+139.111667</Point>
+        </ManualVisibility>
+        <Maps>
+          <Map Name="GEO" />
+          <Map Name="RJSN/CTZ" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJSN" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="16000">
+          <AdditionalLevels>17000</AdditionalLevels>
+        </CFL>
+        <ArrivalLists>
+          <Airport Name="RJSN" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Nigata Tower</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Miyazaki Tower" Type="ASD" DefaultCenter="+31.877222+131.448611" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="FM LCL" />
+        <Sector Name="FM GND" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJFM" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="15000" />
+        <ArrivalLists>
+          <Airport Name="RJFM" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Miyazaki Tower</Line>
+        </ControllerInfo>
+        <ControllerInfo Callsign="RJFM_GND">
+          <Line>Miyazaki Ground</Line>
+        </ControllerInfo>
+    </Position>
+  </Group>
+  <Group Name="AFIS">
+    <Position Name="Wakkanai Radio" Type="ASD" DefaultCenter="+45.404445+141.802222" DefaultRange="50" MagneticVariation="+11">
+        <Sectors>
+        <Sector Name="CW AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJCW" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJCW" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Wakkanai Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Rishiri Radio" Type="ASD" DefaultCenter="+45.241945+141.187500" DefaultRange="50" MagneticVariation="+10">
+        <Sectors>
+        <Sector Name="ER AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJER" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJER" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Rishiri Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Monbetsu Radio" Type="ASD" DefaultCenter="+44.304167+143.404167" DefaultRange="50" MagneticVariation="+9">
+        <Sectors>
+        <Sector Name="EB AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJEB" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJEB" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Monbetsu Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Nakashibetsu Radio" Type="ASD" DefaultCenter="+43.577500+144.960000" DefaultRange="50" MagneticVariation="+9">
+        <Sectors>
+        <Sector Name="CN AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJCN" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJCN" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Nakashibetsu Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Odate Radio" Type="ASD" DefaultCenter="+40.191945+140.371667" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="SR AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJSR" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJSR" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Odate Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Hanamaki Radio" Type="ASD" DefaultCenter="+39.428611+141.135278" DefaultRange="50" MagneticVariation="+9">
+        <Sectors>
+        <Sector Name="SI AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJSI" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJSI" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Hanamaki Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Shonai Radio" Type="ASD" DefaultCenter="+38.812222+139.787222" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="SY AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJSY" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJSY" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Shonai Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Yamagata Radio" Type="ASD" DefaultCenter="+38.411945+140.371111" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="SC AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJSC" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJSC" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Yamagata Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Noto Radio" Type="ASD" DefaultCenter="+37.293333+136.962222" DefaultRange="50" MagneticVariation="+9">
+        <Sectors>
+        <Sector Name="NW AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJNW" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJNW" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Noto Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Fukushima Radio" Type="ASD" DefaultCenter="+37.227500+140.428056" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="SF AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJSF" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJSF" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Fukushima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Oki Radio" Type="ASD" DefaultCenter="+36.178333+133.323333" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="NO AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJNO" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJNO" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Oki Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Matsumoto Radio" Type="ASD" DefaultCenter="+36.166667+137.922778" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="AF AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJAF" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJAF" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Matsumoto Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Fukui Radio" Type="ASD" DefaultCenter="+36.142778+136.223889" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="NF AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJNF" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJNF" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Fukui Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Tottori Radio" Type="ASD" DefaultCenter="+35.530000+134.165000" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="OR AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJOR" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJOR" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tottori Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Izumo Radio" Type="ASD" DefaultCenter="+35.413611+132.890000" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="OC AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJOC" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJOC" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Izumo Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Shizuoka Radio" Type="ASD" DefaultCenter="+34.796111+138.189445" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="NS AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJNS" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJNS" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Shizuoka Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Oshima Radio" Type="ASD" DefaultCenter="+34.781945+139.360278" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="TO AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJTO" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJTO" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Oshima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Iwami Radio" Type="ASD" DefaultCenter="+34.676389+131.790278" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="OW AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJOW" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJOW" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Iwami Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Izu Radio" Type="ASD" DefaultCenter="+34.369445+139.268611" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="AN AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJAN" Visible="true" />
+          <Window Type="ADEP" Beacon="RJAZ" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJAN" />
+          <Airport Name="RJAZ" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Izu Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Tsushima Radio" Type="ASD" DefaultCenter="+34.285000+129.330556" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="DT AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJDT" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJDT" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tsushima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Miyake Radio" Type="ASD" DefaultCenter="+34.073611+139.560278" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="TQ AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJTQ" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJTQ" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Miyake Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Ube Radio" Type="ASD" DefaultCenter="+33.930000+131.278611" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="DC AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJDC" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJDC" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Ube Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Iki Radio" Type="ASD" DefaultCenter="+33.749167+129.785833" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="DB AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJDB" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJDB" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Iki Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Nanki Radio" Type="ASD" DefaultCenter="+33.662222+135.364445" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="BD AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJBD" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJBD" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Nanki Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Saga Radio" Type="ASD" DefaultCenter="+33.149722+130.302222" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="FS AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJFS" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJFS" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Saga Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Hachijo Radio" Type="ASD" DefaultCenter="+33.115000+139.785833" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="TH AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJTH" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJTH" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Hachijo Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Fukue Radio" Type="ASD" DefaultCenter="+32.666389+128.832778" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="FE AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJFE" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJFE" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Fukue Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Tanegashima Radio" Type="ASD" DefaultCenter="+30.605000+130.991667" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="FG AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJFG" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJFG" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tanegashima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Yakushima Radio" Type="ASD" DefaultCenter="+30.385556+130.659167" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="FC AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJFC" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJFC" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Yakushima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Amami Radio" Type="ASD" DefaultCenter="+28.430833+129.712500" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="KA AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJKA" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJKA" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Amami Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Kikai Radio" Type="ASD" DefaultCenter="+28.321389+129.928056" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="KI AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJKI" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJKI" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Kikai Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Tokunoshima Radio" Type="ASD" DefaultCenter="+27.836389+128.881389" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="KN AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJKN" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJKN" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tokunoshima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Okierabu Radio" Type="ASD" DefaultCenter="+27.431667+128.705556" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="KB AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJKB" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJKB" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Okierabu Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Yoron Radio" Type="ASD" DefaultCenter="+27.043889+128.401667" DefaultRange="50" MagneticVariation="+6">
+        <Sectors>
+        <Sector Name="ORY AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RORY" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RORY" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Yoron Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Kumejima Radio" Type="ASD" DefaultCenter="+26.363611+126.713889" DefaultRange="50" MagneticVariation="+5">
+        <Sectors>
+        <Sector Name="OKJ AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="ROKJ" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="ROKJ" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Kumejima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Daito Radio" Type="ASD" DefaultCenter="+25.846667+131.263611" DefaultRange="50" MagneticVariation="+5">
+        <Sectors>
+        <Sector Name="OMD AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="ROMD" Visible="true" />
+          <Window Type="ADEP" Beacon="RORK" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="ROMD" />
+          <Airport Name="RORK" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Daito Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Tarama Radio" Type="ASD" DefaultCenter="+24.653889+124.675278" DefaultRange="50" MagneticVariation="+5">
+        <Sectors>
+        <Sector Name="ORT AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RORT" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RORT" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tarama Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Yonaguni Radio" Type="ASD" DefaultCenter="+24.467500+122.979722" DefaultRange="50" MagneticVariation="+5">
+        <Sectors>
+        <Sector Name="OYN AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="INFO_ZONE" />
+          <Map Name="RJDG/ROYN" />
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="ROYN" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="ROYN" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Yonaguni Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Okushiri Radio" Type="ASD" DefaultCenter="+42.071667+139.432778" DefaultRange="50" MagneticVariation="+9">
+        <Sectors>
+        <Sector Name="EO AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJEO" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJEO" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Okushiri Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Minami Torishima Radio" Type="ASD" DefaultCenter="+24.289722+153.979167" DefaultRange="50" MagneticVariation="+5">
+        <Sectors>
+        <Sector Name="AM AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJAM" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJAM" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Minami Torishima Radio</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Tajima Radio" Type="ASD" DefaultCenter="+35.512778+134.786945" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="BT AFIS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJBT" Visible="true" />
+        </Strips>
+        <CFL QuickLevel="13000" />
+        <ArrivalLists>
+          <Airport Name="RJBT" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tajima Radio</Line>
+        </ControllerInfo>
+    </Position>
+  </Group>
+  <Group Name="FS">
+    <Position Name="Chofu Flight Service" Type="ASD" DefaultCenter="+35.671667+139.528056" DefaultRange="50" MagneticVariation="+8">
+      <Sectors>
+      <Sector Name="TF FS" />
+      </Sectors>
+      <Maps>
+        <Map Name="GEO" />
+      </Maps>
+      <Strips Mode="Beacon" Sort="Alpha">
+        <Window Type="ADEP" Beacon="RJTF" Visible="true" />
+      </Strips>
+      <ArrivalLists>
+        <Airport Name="RJTF" />
+      </ArrivalLists>
+      <ControllerInfo>
+        <Line>Chofu Flight Service</Line>
+      </ControllerInfo>
+    </Position>
+    <Position Name="Tajima Flight Service" Type="ASD" DefaultCenter="+35.512778+134.786945" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="BT FS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJBT" Visible="true" />
+        </Strips>
+        <ArrivalLists>
+          <Airport Name="RJBT" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Tajima Flight Service</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Kohnan Flight Service" Type="ASD" DefaultCenter="+34.591389+133.933333" DefaultRange="50" MagneticVariation="+8">
+        <Sectors>
+        <Sector Name="BK FS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJBK" Visible="true" />
+        </Strips>
+        <ArrivalLists>
+          <Airport Name="RJBK" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Kohnan Flight Service</Line>
+        </ControllerInfo>
+    </Position>
+    <Position Name="Amakusa Flight Service" Type="ASD" DefaultCenter="+32.482222+130.158889" DefaultRange="50" MagneticVariation="+7">
+        <Sectors>
+        <Sector Name="DA FS" />
+        </Sectors>
+        <Maps>
+          <Map Name="GEO" />
+        </Maps>
+        <Strips Mode="Beacon" Sort="Alpha">
+          <Window Type="ADEP" Beacon="RJDA" Visible="true" />
+        </Strips>
+        <ArrivalLists>
+          <Airport Name="RJDA" />
+        </ArrivalLists>
+        <ControllerInfo>
+          <Line>Amakusa Flight Service</Line>
+        </ControllerInfo>
+    </Position>
+  </Group>
+  <Position Name="RJOE" Type="ASMGCS" ASMGCSAirport="RJOE" DefaultCenter="+34.533889+136.671667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSK" Type="ASMGCS" ASMGCSAirport="RJSK" DefaultCenter="+39.615556+140.218611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJDA" Type="ASMGCS" ASMGCSAirport="RJDA" DefaultCenter="+32.482222+130.158889" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJKA" Type="ASMGCS" ASMGCSAirport="RJKA" DefaultCenter="+28.430833+129.712500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSA" Type="ASMGCS" ASMGCSAirport="RJSA" DefaultCenter="+40.733333+140.688611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJEC" Type="ASMGCS" ASMGCSAirport="RJEC" DefaultCenter="+43.670833+142.447500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCA" Type="ASMGCS" ASMGCSAirport="RJCA" DefaultCenter="+43.794445+142.365000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFA" Type="ASMGCS" ASMGCSAirport="RJFA" DefaultCenter="+33.881389+130.651667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTA" Type="ASMGCS" ASMGCSAirport="RJTA" DefaultCenter="+35.454722+139.450000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCJ" Type="ASMGCS" ASMGCSAirport="RJCJ" DefaultCenter="+42.794445+141.666389" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTF" Type="ASMGCS" ASMGCSAirport="RJTF" DefaultCenter="+35.671667+139.528056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJGG" Type="ASMGCS" ASMGCSAirport="RJGG" DefaultCenter="+34.858333+136.805278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFE" Type="ASMGCS" ASMGCSAirport="RJFE" DefaultCenter="+32.666389+128.832778" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNF" Type="ASMGCS" ASMGCSAirport="RJNF" DefaultCenter="+36.142778+136.223889" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFF" Type="ASMGCS" ASMGCSAirport="RJFF" DefaultCenter="+33.584445+130.451667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSF" Type="ASMGCS" ASMGCSAirport="RJSF" DefaultCenter="+37.227500+140.428056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROTM" Type="ASMGCS" ASMGCSAirport="ROTM" DefaultCenter="+26.266667+127.750000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNG" Type="ASMGCS" ASMGCSAirport="RJNG" DefaultCenter="+35.394445+136.869445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTH" Type="ASMGCS" ASMGCSAirport="RJTH" DefaultCenter="+33.115000+139.785833" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSH" Type="ASMGCS" ASMGCSAirport="RJSH" DefaultCenter="+40.551945+141.467222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCH" Type="ASMGCS" ASMGCSAirport="RJCH" DefaultCenter="+41.770000+140.821945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNH" Type="ASMGCS" ASMGCSAirport="RJNH" DefaultCenter="+34.750278+137.703056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSI" Type="ASMGCS" ASMGCSAirport="RJSI" DefaultCenter="+39.428611+141.135278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOA" Type="ASMGCS" ASMGCSAirport="RJOA" DefaultCenter="+34.436111+132.919445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOF" Type="ASMGCS" ASMGCSAirport="RJOF" DefaultCenter="+34.034445+131.546389" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+
+  <Position Name="RJAH" Type="ASMGCS" ASMGCSAirport="RJAH" DefaultCenter="+36.181667+140.414722" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJDB" Type="ASMGCS" ASMGCSAirport="RJDB" DefaultCenter="+33.749167+129.785833" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTJ" Type="ASMGCS" ASMGCSAirport="RJTJ" DefaultCenter="+35.841945+139.410556" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOI" Type="ASMGCS" ASMGCSAirport="RJOI" DefaultCenter="+34.145000+132.246945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOW" Type="ASMGCS" ASMGCSAirport="RJOW" DefaultCenter="+34.676389+131.790278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJAW" Type="ASMGCS" ASMGCSAirport="RJAW" DefaultCenter="+24.784167+141.322778" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOC" Type="ASMGCS" ASMGCSAirport="RJOC" DefaultCenter="+35.413611+132.890000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RODN" Type="ASMGCS" ASMGCSAirport="RODN" DefaultCenter="+26.355611+127.767633" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFK" Type="ASMGCS" ASMGCSAirport="RJFK" DefaultCenter="+31.803333+130.719445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFY" Type="ASMGCS" ASMGCSAirport="RJFY" DefaultCenter="+31.368056+130.838056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJBB" Type="ASMGCS" ASMGCSAirport="RJBB" DefaultCenter="+34.434167+135.232778" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJAK" Type="ASMGCS" ASMGCSAirport="RJAK" DefaultCenter="+36.034722+140.192778" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSU" Type="ASMGCS" ASMGCSAirport="RJSU" DefaultCenter="+38.235556+140.923056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJKI" Type="ASMGCS" ASMGCSAirport="RJKI" DefaultCenter="+28.321389+129.928056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTK" Type="ASMGCS" ASMGCSAirport="RJTK" DefaultCenter="+35.395000+139.913056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RORK" Type="ASMGCS" ASMGCSAirport="RORK" DefaultCenter="+25.944722+131.326945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFR" Type="ASMGCS" ASMGCSAirport="RJFR" DefaultCenter="+33.845556+131.035000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJBE" Type="ASMGCS" ASMGCSAirport="RJBE" DefaultCenter="+34.632778+135.223889" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOK" Type="ASMGCS" ASMGCSAirport="RJOK" DefaultCenter="+33.546111+133.669445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJBK" Type="ASMGCS" ASMGCSAirport="RJBK" DefaultCenter="+34.591389+133.933333" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNK" Type="ASMGCS" ASMGCSAirport="RJNK" DefaultCenter="+36.393889+136.407500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJAZ" Type="ASMGCS" ASMGCSAirport="RJAZ" DefaultCenter="+34.189445+139.133611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFT" Type="ASMGCS" ASMGCSAirport="RJFT" DefaultCenter="+32.837222+130.855278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROKJ" Type="ASMGCS" ASMGCSAirport="ROKJ" DefaultCenter="+26.363611+126.713889" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCK" Type="ASMGCS" ASMGCSAirport="RJCK" DefaultCenter="+43.040833+144.193056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJAF" Type="ASMGCS" ASMGCSAirport="RJAF" DefaultCenter="+36.166667+137.922778" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJST" Type="ASMGCS" ASMGCSAirport="RJST" DefaultCenter="+38.403056+141.211945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOM" Type="ASMGCS" ASMGCSAirport="RJOM" DefaultCenter="+33.827222+132.699722" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCM" Type="ASMGCS" ASMGCSAirport="RJCM" DefaultCenter="+43.880556+144.164167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJDM" Type="ASMGCS" ASMGCSAirport="RJDM" DefaultCenter="+33.325278+130.413611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOH" Type="ASMGCS" ASMGCSAirport="RJOH" DefaultCenter="+35.493333+133.239167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROMD" Type="ASMGCS" ASMGCSAirport="ROMD" DefaultCenter="+25.846667+131.263611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJAM" Type="ASMGCS" ASMGCSAirport="RJAM" DefaultCenter="+24.289722+153.979167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSM" Type="ASMGCS" ASMGCSAirport="RJSM" DefaultCenter="+40.703056+141.368333" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTQ" Type="ASMGCS" ASMGCSAirport="RJTQ" DefaultCenter="+34.073611+139.560278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROMY" Type="ASMGCS" ASMGCSAirport="ROMY" DefaultCenter="+24.782778+125.295000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFM" Type="ASMGCS" ASMGCSAirport="RJFM" DefaultCenter="+31.877222+131.448611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJEB" Type="ASMGCS" ASMGCSAirport="RJEB" DefaultCenter="+44.304167+143.404167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFU" Type="ASMGCS" ASMGCSAirport="RJFU" DefaultCenter="+32.916945+129.913611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNA" Type="ASMGCS" ASMGCSAirport="RJNA" DefaultCenter="+35.255000+136.924445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROAH" Type="ASMGCS" ASMGCSAirport="ROAH" DefaultCenter="+26.193333+127.639722" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCN" Type="ASMGCS" ASMGCSAirport="RJCN" DefaultCenter="+43.577500+144.960000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJBD" Type="ASMGCS" ASMGCSAirport="RJBD" DefaultCenter="+33.662222+135.364445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJAA" Type="ASMGCS" ASMGCSAirport="RJAA" DefaultCenter="+35.765278+140.385556" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCC" Type="ASMGCS" ASMGCSAirport="RJCC" DefaultCenter="+42.775278+141.692500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROIG" Type="ASMGCS" ASMGCSAirport="ROIG" DefaultCenter="+24.396389+124.245000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSN" Type="ASMGCS" ASMGCSAirport="RJSN" DefaultCenter="+37.955833+139.111667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="RJSN/ASMGCS_RJSN_RWY" />
+      <Map Name="RJSN/ASMGCS_RJSN_TWY" />
+      <Map Name="RJSN/ASMGCS_RJSN_APR" />
+    </Maps>
+  </Position>
+  <Position Name="RJAN" Type="ASMGCS" ASMGCSAirport="RJAN" DefaultCenter="+34.369445+139.268611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNW" Type="ASMGCS" ASMGCSAirport="RJNW" DefaultCenter="+37.293333+136.962222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFN" Type="ASMGCS" ASMGCSAirport="RJFN" DefaultCenter="+32.083611+131.451389" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCB" Type="ASMGCS" ASMGCSAirport="RJCB" DefaultCenter="+42.733333+143.217222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSR" Type="ASMGCS" ASMGCSAirport="RJSR" DefaultCenter="+40.191945+140.371667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFO" Type="ASMGCS" ASMGCSAirport="RJFO" DefaultCenter="+33.479445+131.737222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOB" Type="ASMGCS" ASMGCSAirport="RJOB" DefaultCenter="+34.756945+133.855278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNO" Type="ASMGCS" ASMGCSAirport="RJNO" DefaultCenter="+36.178333+133.323333" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJKB" Type="ASMGCS" ASMGCSAirport="RJKB" DefaultCenter="+27.431667+128.705556" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJEO" Type="ASMGCS" ASMGCSAirport="RJEO" DefaultCenter="+42.071667+139.432778" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSO" Type="ASMGCS" ASMGCSAirport="RJSO" DefaultCenter="+41.232778+141.132222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJDU" Type="ASMGCS" ASMGCSAirport="RJDU" DefaultCenter="+32.928056+129.934167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOO" Type="ASMGCS" ASMGCSAirport="RJOO" DefaultCenter="+34.784445+135.439167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTO" Type="ASMGCS" ASMGCSAirport="RJTO" DefaultCenter="+34.781945+139.360278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOZ" Type="ASMGCS" ASMGCSAirport="RJOZ" DefaultCenter="+34.046945+131.052500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJER" Type="ASMGCS" ASMGCSAirport="RJER" DefaultCenter="+45.241945+141.187500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFS" Type="ASMGCS" ASMGCSAirport="RJFS" DefaultCenter="+33.149722+130.302222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCO" Type="ASMGCS" ASMGCSAirport="RJCO" DefaultCenter="+43.117500+141.381389" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSS" Type="ASMGCS" ASMGCSAirport="RJSS" DefaultCenter="+38.139722+140.916945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTL" Type="ASMGCS" ASMGCSAirport="RJTL" DefaultCenter="+35.798889+140.012222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RORS" Type="ASMGCS" ASMGCSAirport="RORS" DefaultCenter="+24.826667+125.144722" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNY" Type="ASMGCS" ASMGCSAirport="RJNY" DefaultCenter="+34.812778+138.298056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNS" Type="ASMGCS" ASMGCSAirport="RJNS" DefaultCenter="+34.796111+138.189445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSY" Type="ASMGCS" ASMGCSAirport="RJSY" DefaultCenter="+38.812222+139.787222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTC" Type="ASMGCS" ASMGCSAirport="RJTC" DefaultCenter="+35.710833+139.403056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJBT" Type="ASMGCS" ASMGCSAirport="RJBT" DefaultCenter="+35.512778+134.786945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOT" Type="ASMGCS" ASMGCSAirport="RJOT" DefaultCenter="+34.214167+134.015556" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFG" Type="ASMGCS" ASMGCSAirport="RJFG" DefaultCenter="+30.605000+130.991667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RORT" Type="ASMGCS" ASMGCSAirport="RORT" DefaultCenter="+24.653889+124.675278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTE" Type="ASMGCS" ASMGCSAirport="RJTE" DefaultCenter="+34.987500+139.831945" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCT" Type="ASMGCS" ASMGCSAirport="RJCT" DefaultCenter="+42.890278+143.158333" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJKN" Type="ASMGCS" ASMGCSAirport="RJKN" DefaultCenter="+27.836389+128.881389" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOS" Type="ASMGCS" ASMGCSAirport="RJOS" DefaultCenter="+34.132222+134.609167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTT" Type="ASMGCS" ASMGCSAirport="RJTT" DefaultCenter="+353312.000+1394652.000" DefaultRange="2" MagneticVariation="+8" Rotation="-58.2">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOR" Type="ASMGCS" ASMGCSAirport="RJOR" DefaultCenter="+35.530000+134.165000" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJNT" Type="ASMGCS" ASMGCSAirport="RJNT" DefaultCenter="+36.648333+137.187500" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFZ" Type="ASMGCS" ASMGCSAirport="RJFZ" DefaultCenter="+33.685000+131.040278" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJDT" Type="ASMGCS" ASMGCSAirport="RJDT" DefaultCenter="+34.285000+129.330556" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTU" Type="ASMGCS" ASMGCSAirport="RJTU" DefaultCenter="+36.514445+139.871111" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJCW" Type="ASMGCS" ASMGCSAirport="RJCW" DefaultCenter="+45.404445+141.802222" DefaultRange="2" MagneticVariation="+10" Rotation="0">
+    <Maps>
+      <Map Name="RJCW/ASMGCS_RJCW_RWY" />
+      <Map Name="RJCW/ASMGCS_RJCW_TWY" />
+      <Map Name="RJCW/ASMGCS_RJCW_APR" />
+      <Map Name="RJCW/ASMGCS_RJCW_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFC" Type="ASMGCS" ASMGCSAirport="RJFC" DefaultCenter="+30.385556+130.659167" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJSC" Type="ASMGCS" ASMGCSAirport="RJSC" DefaultCenter="+38.411945+140.371111" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJDC" Type="ASMGCS" ASMGCSAirport="RJDC" DefaultCenter="+33.930000+131.278611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOY" Type="ASMGCS" ASMGCSAirport="RJOY" DefaultCenter="+34.596667+135.600556" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTY" Type="ASMGCS" ASMGCSAirport="RJTY" DefaultCenter="+35.748611+139.348611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="ROYN" Type="ASMGCS" ASMGCSAirport="ROYN" DefaultCenter="+24.467500+122.979722" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RORY" Type="ASMGCS" ASMGCSAirport="RORY" DefaultCenter="+27.043889+128.401667" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJOP" Type="ASMGCS" ASMGCSAirport="RJOP" DefaultCenter="+34.005278+134.626389" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJBM" Type="ASMGCS" ASMGCSAirport="RJBM" DefaultCenter="+35.490556+135.377222" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJFH" Type="ASMGCS" ASMGCSAirport="RJFH" DefaultCenter="+33.677500+130.390833" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTS" Type="ASMGCS" ASMGCSAirport="RJTS" DefaultCenter="+36.434722+138.953056" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTI" Type="ASMGCS" ASMGCSAirport="RJTI" DefaultCenter="+35.636111+139.839445" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+  <Position Name="RJTR" Type="ASMGCS" ASMGCSAirport="RJTR" DefaultCenter="+35.513611+139.393611" DefaultRange="2" MagneticVariation="+8" Rotation="0">
+    <Maps>
+      <Map Name="ALL_RWY" />
+      <Map Name="ALL_TWY" />
+      <Map Name="ALL_BLD" />
+    </Maps>
+  </Position>
+</Positions>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="Ground_RWY" Name="ASMGCS_RJSC_RWY" Priority="1" Center="+38.411945+140.371111">
+    <Infill Name="RWY_A/B">
+      <Point>
+      +38.421397+140.372414/
+      +38.421333+140.373081/
+      +38.402372+140.370303/
+      +38.402436+140.369633/
+      +38.421397+140.372414
+      </Point>
+    </Infill>
+  </Map>
+</Maps>

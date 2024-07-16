@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="RJFS" Priority="0" Center="+33.149722+130.302222">
+    <Runway Name="11_29">
+      <Threshold Name="16" Position="+33.596904+130.443193" ExtendedCentrelineTrack="330" ExtendedCentrelineLength="21" ExtendedCentrelineTickInterval="2"/>
+      <Threshold Name="34" Position="+33.574965+130.458192"/>
+    </Runway>
+    <Symbol Type="HollowTriangle">
+    </Symbol>
+    <Symbol Type="Hexagon">
+    </Symbol>
+    <Symbol Type="HollowSquare">
+    </Symbol>
+  </Map>
+  <Map Type="System" Name="RJFS_LABEL" Priority="2" Center="+33.149722+130.302222">
+    <Label>
+    </Label>
+  </Map>
+</Maps>

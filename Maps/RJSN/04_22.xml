@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="04" Priority="0" Center="+37.955833+139.111667">
+    <Runway Name="04/22">
+      <Threshold Name="04" Position="+37.956838+139.095638" ExtendedCentrelineTrack="212" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+      <Threshold Name="22" Position="+37.955785+139.124054"/>
+    </Runway>
+  </Map>
+  <Map Type="System" Name="22" Priority="0" Center="+37.955833+139.111667">
+    <Runway Name="04/22">
+      <Threshold Name="04" Position="+37.956838+139.095638"/>
+      <Threshold Name="22" Position="+37.955785+139.124054" ExtendedCentrelineTrack="032" ExtendedCentrelineLength="5" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+  </Map>
+</Maps>

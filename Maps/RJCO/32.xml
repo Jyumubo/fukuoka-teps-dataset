@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Maps>
+  <Map Type="System" Name="32" Priority="0" Center="+430703.000+1412253.000">
+    <Runway Name="14/32">
+        <Threshold Name="14" Position="+43.122287+141.374610" />
+        <Threshold Name="32" Position="+43.112607+141.387963" ExtendedCentrelineTrack="135" ExtendedCentrelineLength="10" ExtendedCentrelineTickInterval="2" />
+    </Runway>
+  </Map>
+</Maps>
